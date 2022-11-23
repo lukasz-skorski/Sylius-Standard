@@ -1,6 +1,0 @@
-product_form:
-    driver: doctrine/orm
-    classes:
-        product:
-            form:
-                default: App\Form\Admin\ExtendedProductForm
